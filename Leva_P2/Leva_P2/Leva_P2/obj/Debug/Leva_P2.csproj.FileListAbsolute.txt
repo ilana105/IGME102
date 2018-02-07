@@ -1,0 +1,7 @@
+C:\Users\ilana\Desktop\IGME102\Leva_P2\Leva_P2\bin\Debug\Leva_P2.exe.config
+C:\Users\ilana\Desktop\IGME102\Leva_P2\Leva_P2\bin\Debug\Leva_P2.exe
+C:\Users\ilana\Desktop\IGME102\Leva_P2\Leva_P2\bin\Debug\Leva_P2.pdb
+C:\Users\ilana\Desktop\IGME102\Leva_P2\Leva_P2\obj\Debug\Leva_P2.csprojResolveAssemblyReference.cache
+C:\Users\ilana\Desktop\IGME102\Leva_P2\Leva_P2\obj\Debug\Leva_P2.csproj.CoreCompileInputs.cache
+C:\Users\ilana\Desktop\IGME102\Leva_P2\Leva_P2\obj\Debug\Leva_P2.exe
+C:\Users\ilana\Desktop\IGME102\Leva_P2\Leva_P2\obj\Debug\Leva_P2.pdb

@@ -1,0 +1,23 @@
+Ilana Leva
+IGME 102, Section 01
+
+Assignment:
+Aquarium Project #2
+
+Description:
+This project simulates an aquarium with 4 different types of fish.
+Each fish is unique and has their own attributes.
+The KnifeFish is able to broadcast a signal to other KnifeFish in the aquarium.
+The Goby and Shrimp are able to pair up with one another.
+Each fish has a random color and cost (within the bounds) given to them.
+At the end of the program, it displays the total cost of the whole aquarium.
+
+User Responsibilities:
+The user can hard-code the number of fish (at least 17) they want in the aquarium.
+
+Caveats or Known Issues:
+None have occured so far
+
+Notes:
+I changed the forground color to a lgihter color so I would be able to see it on my terminal,
+which allowed me to evaluate and fix any bugs and spacing issues.
