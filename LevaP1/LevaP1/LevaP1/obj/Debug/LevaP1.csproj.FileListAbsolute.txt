@@ -1,0 +1,7 @@
+C:\Users\ilana\Desktop\IGME102\LevaP1\LevaP1\bin\Debug\LevaP1.exe.config
+C:\Users\ilana\Desktop\IGME102\LevaP1\LevaP1\bin\Debug\LevaP1.exe
+C:\Users\ilana\Desktop\IGME102\LevaP1\LevaP1\bin\Debug\LevaP1.pdb
+C:\Users\ilana\Desktop\IGME102\LevaP1\LevaP1\obj\Debug\LevaP1.csprojResolveAssemblyReference.cache
+C:\Users\ilana\Desktop\IGME102\LevaP1\LevaP1\obj\Debug\LevaP1.csproj.CoreCompileInputs.cache
+C:\Users\ilana\Desktop\IGME102\LevaP1\LevaP1\obj\Debug\LevaP1.exe
+C:\Users\ilana\Desktop\IGME102\LevaP1\LevaP1\obj\Debug\LevaP1.pdb

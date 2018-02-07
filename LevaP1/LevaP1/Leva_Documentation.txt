@@ -1,0 +1,21 @@
+Ilana Leva
+IGME 102, Section 1
+
+Assignment:
+ASCII Replacer Project
+
+Description:
+This project will allow the user to replace characters in ASCII text art
+The user will be able to pick one of the 3 provided ASCII art
+After, they will be prompted to input a character they would like to replace
+Then provide what they want to replace it with, they have the option to choose or go random
+During the input process, if the user does not enter a valid input they will be prompted to type
+and input until it is considered valid.
+Then it will show what character got replaced by printing out the ASCII art with the replacement character
+
+Caveats or Known Issues:
+I don't think there are any from my knowledge of testing. 
+
+Notes:
+Added own method that would check if the given input is valid
+Probably could do without it, but it just made it easier for me.
